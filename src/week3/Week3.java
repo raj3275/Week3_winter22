@@ -13,9 +13,10 @@ public class Week3 {
 
     /**
      * @param args the command line arguments
+     * week 3 changes
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Learning Github");
     }
     
 }
